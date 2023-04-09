@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "raw_chlorophyte",
+  "ingredients": [
+    {
+      "item": "forgemod:chlorophyte_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "forgemod:raw_chlorophyte"
+  }
+}

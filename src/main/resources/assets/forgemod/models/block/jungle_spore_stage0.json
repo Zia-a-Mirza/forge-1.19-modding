@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "forgemod:block/jungle_spore_stage0"
+  }
+}

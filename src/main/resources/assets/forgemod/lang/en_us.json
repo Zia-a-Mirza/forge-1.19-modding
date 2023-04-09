@@ -1,0 +1,21 @@
+{
+  "item.forgemod.cosmeresuckslmao": "Cosmere Sucks Lmao",
+  "item.forgemod.raw_chlorophyte": "Raw Chlorophyte",
+  "item.forgemod.chlorophyte_ingot": "Chlorophyte Ingot",
+  "item.forgemod.chlorophyte_pickaxe": "Chlorophyte Pickaxe",
+  "item.forgemod.chlorophyte_sword": "Chlorophyte Sword",
+  "item.forgemod.chlorophyte_axe": "Chlorophyte Axe",
+  "item.forgemod.chlorophyte_shovel": "Chlorophyte Shovel",
+
+  "item.forgemod.jungle_spores": "Jungle Spores",
+  "item.forgemod.jungle_spore_seeds": "Jungle Spore Seeds",
+  "item.forgemod.honey_bucket": "Bucket of Honey",
+
+  "block.forgemod.jungle_spore_crop": "Jungle Spore Crop",
+
+
+  "block.forgemod.chlorophyte_block": "Block of Chlorophyte",
+  "block.forgemod.chlorophyte_ore": "Chlorophyte Ore",
+  "block.forgemod.deepslate_chlorophyte_ore": "Deepslate Chlorophyte Ore",
+  "itemGroup.forgetab": "Chlorophyte Items"
+}

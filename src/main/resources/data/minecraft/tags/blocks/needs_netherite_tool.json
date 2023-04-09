@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "forgemod:chlorophyte_ore",
+    "forgemod:chlorophyte_block",
+    "forgemod:deepslate_chlorophyte_ore"
+  ]
+}
